@@ -1,2 +1,2 @@
 # aemTraining
-AEM Training Repo to extend OOTB and introduce helpful customisation
+AEM Training Repo to extend OOTB features and introduce helpful customisation
